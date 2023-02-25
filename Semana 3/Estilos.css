@@ -1,0 +1,15 @@
+.responsive{
+    max-width: 100%;
+    height: auto;
+    }
+
+    .responsive:hover{
+        transform: scale(1.2);
+        filter:invert(100%);
+    }
+
+    h1,h2,p{
+        text-align: center;
+        color: aliceblue;
+        font-family: 'Bungee Shade', cursive;;
+    }
